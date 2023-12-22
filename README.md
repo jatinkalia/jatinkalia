@@ -1,11 +1,11 @@
 ![MasterHead](https://www.omadahealth.com/hubfs/QuantifyingBehavior_Header_Animate_080818-1.gif)
 <h1 align="center">Hi 👋, I'm Jatin Kalia</h1>
-<h3 align="center">A passionate Data Analyst from India</h3>
+<h3 align="center">A passionate Developer from India</h3>
 <img align = "right" alt="Coding" width = "400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611f4542081ac8b147bbd85a94f0d29b905c3e83154&rid=giphy.gif&ct=g">
 
-- 🔭 I’m currently working on **Data Analysis Projects**
+- 🔭 I’m currently working on **Fullstack**
 
-- 🌱 I’m currently learning **Power BI , Seaborn**
+- 🌱 I’m currently learning **javascript**
 
 - 📫 How to reach me **jatinkalia000@gmail.com**
 
